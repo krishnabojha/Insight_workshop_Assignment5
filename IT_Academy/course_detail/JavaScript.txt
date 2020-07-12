@@ -1,0 +1,20 @@
+JavaScript Course syllabus:
+
+1. Course Introduction
+2. JavaScript Language Basic
+3. How JavaScript Works behind the Scenes
+4. DOM Manipulation and Events
+5. Advanced JavaScript:Objects and Functions
+6. Putting it All Together: The Budget App Project
+7. Next Generation JavaScript: Intro to ES6/ ES2015
+8. Asynchronous JavaScript: Promises, Async/Await and AJAX
+9. Modern JavaScript: Using ES6, NPM, Babel and Webpack
+10. Final Course Exam: 30 Questions to Test Your JavaScript Knowledge
+11. Conclusion
+12. BONUS: A Node.js Crash Course
+
+REQUIREMENTS:
+
+=> No coding experience is necessary to take this course! I take you from beginner to expert!
+=> Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.
+=> A basic understanding of HTML and CSS is a plus, but not a must! The course includes a 5-minutes HTML and CSS crash course.

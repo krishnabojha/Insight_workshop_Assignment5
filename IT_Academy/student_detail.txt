@@ -1,0 +1,6 @@
+Name,Email,Address,Education,Deposit amount,Voucher number,Payment,Course
+Bikash magar,bikash@gmail.com,cds,gd,20000,236,paid,Java
+krishna ojha,ojha@gmail.com,kathmandu,BE,20000,1234,paid,HTML
+jeevan ojha,jeevan@gmail.com,palpa,BBA,10000,1452,installment,PHP
+Binod rai,binod@gmail.com,jhapa,BBS,10000,1234,installment,Python
+Ganga rai,ganga@gmail.com,BBS,BBS,20000,1452,paid,Java

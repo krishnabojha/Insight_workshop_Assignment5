@@ -1,0 +1,13 @@
+Java Course Syllabus:
+
+1. Java Introduction
+2. Java Method
+3. Java class
+4. OOP: Composition, Encapsulation and Polymorphism
+5. Java File Handling
+
+REQUIREMENTS:
+
+=> A computer with either Windows, Mac or Linux to install all the free software and tools needed to build your new apps (I provide specific videos on installations for each platform).
+=> A strong work ethic, willingness to learn, and plenty of excitement about the awesome new programs you’re about to build.
+=> Nothing else! It’s just you, your computer and your hunger to get started today.

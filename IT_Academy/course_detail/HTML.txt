@@ -1,0 +1,17 @@
+HTML Course Syllabus:
+
+1. HTML Introduction
+2. HTML Essentials
+3. Adding Media to a Web Page
+4. Text Basics
+5. Semantics and Organization
+6. Forms
+7. Tables
+8. CSS Essentials
+9. Intermediate CSS
+
+REQUIREMENTS:
+
+=> A computer with either Windows, Mac or Linux to install all the free software and tools needed to build your new apps (I provide specific videos on installations for each platform).
+=> A strong work ethic, willingness to learn, and plenty of excitement about the awesome new programs you’re about to build.
+=> Nothing else! It’s just you, your computer and your hunger to get started today.
